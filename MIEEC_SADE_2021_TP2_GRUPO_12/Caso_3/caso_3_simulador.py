@@ -8,7 +8,7 @@ import pathlib
 from pathlib import Path
 import os
 
-#define o numero de anos a simular na variação do numero de dias de manutenção
+#defines the number of years to simulate 
 n_anos = 10
 
 #find current directory where the script is running and appends to it the file name to create
